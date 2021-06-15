@@ -1,12 +1,12 @@
 a {
   text-decoration: none;
-  color: #e1e8eb;
+  color: #EEEEEE;
 }
 
 body {
   text-align: center;
-  background-color: #343a40;
-  color: #e1e8eb;
+  background-color: #222831;
+  color: #EEEEEE;
 }
 
 h2 {
@@ -42,7 +42,7 @@ table {
 }
 
 .copyright {
-  color: #EAF6F6;
+  color: #EEEEEE;
   font-family: 'Merriweather Sans', sans-serif;
   margin: 12% auto auto auto;
 }
