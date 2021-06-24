@@ -1,3 +1,10 @@
+
+.onlyfortoday {
+text-decoration: underline;
+  color: blue;
+}
+
+
 a {
   text-decoration: none;
   color: #EEEEEE;
@@ -47,10 +54,6 @@ table {
   margin: 12% auto auto auto;
 }
 
-.onlyfortoday {
-text-decoration: underline;
-  color: blue;
-}
 
 .noteb {
   font-size:20%;
